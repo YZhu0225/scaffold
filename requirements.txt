@@ -1,0 +1,15 @@
+pylint
+click
+pytest
+pytest-cov
+black
+fastapi
+requests
+openai
+python-youtube
+
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
